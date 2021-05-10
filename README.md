@@ -15,9 +15,9 @@ El propósito de este curso es proveer de una introducción a los aspectos bási
 
 ## Material de clases
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9Or-93DGAjiXbz3RhcRv0N)
+Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en una: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9Or-93DGAjiXbz3RhcRv0N)
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-01.pdf), [[video]](https://youtu.be/3bcJxS8wqQw)
 - Clase 2: Definición de GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-02.pdf), [[video]](https://youtu.be/UuBA_DpkQeQ)
 - Clase 3: Estimación en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-03.pdf), [[video]](https://youtu.be/JwcoThjbjPw)
 - Clase 4: Test de hipótesis en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-04.pdf), [[video]](https://youtu.be/CWroX7fkNls)
