@@ -12,3 +12,13 @@ El propósito de este curso es proveer de una introducción a los aspectos bási
 * McCullagh, P., Nelder, J.A. (1983). *Generalized Linear Models*. Chapman and Hall, London.
 * Paula, G.A. (2013). *Modelos de Regressão: com apoio computacional*. Instituto de Matemática e Estatística - USP, São Paulo, Brasil.
 * Wei, B. (1998). *Exponential Family Nonlinear Models*. Springer, Singapore
+
+## Material de clases
+
+Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9Or-93DGAjiXbz3RhcRv0N)
+
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
+- Clase 2: Definición de GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-02.pdf), [[video]](https://youtu.be/UuBA_DpkQeQ)
+- Clase 3: Estimación en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-03.pdf), [[video]](https://youtu.be/JwcoThjbjPw)
+- Clase 4: Test de hipótesis en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-04.pdf), [[video]](https://youtu.be/CWroX7fkNls)
+- Clase 5: Bondad de ajuste y residuos en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-05.pdf), [[video]](https://youtu.be/UcYUcdTOfiI)
