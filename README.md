@@ -1,4 +1,5 @@
 # Curso de Modelos Lineales Generalizados
+![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-GLM)
 
 Este repositorio contiene el material del curso **MAT-466: Modelos Lineales Generalizados** (Universidad Técnica Federico Santa María).
 
