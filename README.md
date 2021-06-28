@@ -25,7 +25,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 5: Bondad de ajuste y residuos en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-05.pdf), [[video]](https://youtu.be/UcYUcdTOfiI)
 - Clase 6: Diagnóstico de influencia en GLM [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-06.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-07.pdf), [[video 1]](https://youtu.be/65yd0xWztdU), [[video 2]](https://youtu.be/_uJDjfp2nSI), [[video 3]](https://youtu.be/Qhlwo-MWMtw)
 - Clase 7: Quasi-verosimilitud [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-08.pdf), [[video]](https://youtu.be/CKU7G6uOm-s)
-- Clase 8: Ecuaciones de verosimilitud generalizadas [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-09.pdf)
+- Clase 8: Ecuaciones de verosimilitud generalizadas [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-09.pdf), [[video]](https://youtu.be/YEcREtAsqC8)
 
 ## Conjuntos de datos
 - Datos de Finney: [[finney.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.csv), [[finney.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.rda)
