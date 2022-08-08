@@ -16,17 +16,17 @@ El propósito de este curso es proveer de una introducción a los aspectos bási
 
 ## Material de clases
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en una: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9Or-93DGAjiXbz3RhcRv0N)
+Las **diapositivas** para el 1er semestre de 2021 se encuentran disponibles a continuación.
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-01.pdf), [[video]](https://youtu.be/3bcJxS8wqQw)
-- Clase 2: Definición de GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-02.pdf), [[video]](https://youtu.be/UuBA_DpkQeQ)
-- Clase 3: Estimación en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-03.pdf), [[video]](https://youtu.be/JwcoThjbjPw)
-- Clase 4: Test de hipótesis en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-04.pdf), [[video]](https://youtu.be/CWroX7fkNls)
-- Clase 5: Bondad de ajuste y residuos en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-05.pdf), [[video]](https://youtu.be/UcYUcdTOfiI)
-- Clase 6: Diagnóstico de influencia en GLM [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-06.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-07.pdf), [[video 1]](https://youtu.be/65yd0xWztdU), [[video 2]](https://youtu.be/_uJDjfp2nSI), [[video 3]](https://youtu.be/Qhlwo-MWMtw)
-- Clase 7: Quasi-verosimilitud [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-08.pdf), [[video]](https://youtu.be/CKU7G6uOm-s)
-- Clase 8: Ecuaciones de estimación generalizadas [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-09.pdf), [[video]](https://youtu.be/YEcREtAsqC8)
-- Clase 9: Funciones de inferencia [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-11.pdf), [[video 1]](https://youtu.be/MrVIjy5jxyE), [[video 2]](https://youtu.be/Dh_8l5HQdp0)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-01.pdf)
+- Clase 2: Definición de GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-02.pdf)
+- Clase 3: Estimación en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-03.pdf)
+- Clase 4: Test de hipótesis en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-04.pdf)
+- Clase 5: Bondad de ajuste y residuos en GLM [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-05.pdf)
+- Clase 6: Diagnóstico de influencia en GLM [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-06.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-07.pdf)
+- Clase 7: Quasi-verosimilitud [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-08.pdf)
+- Clase 8: Ecuaciones de estimación generalizadas [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-09.pdf)
+- Clase 9: Funciones de inferencia [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-11.pdf)
 
 ## Conjuntos de datos
 - Datos de Finney: [[finney.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.csv), [[finney.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.rda)
