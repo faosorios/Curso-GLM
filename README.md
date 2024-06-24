@@ -27,7 +27,7 @@ Las **diapositivas** para el 1er semestre de 2021 se encuentran disponibles a co
 - Clase 7: Quasi-verosimilitud [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-08.pdf)
 - Clase 8: Ecuaciones de estimación generalizadas [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-09.pdf)
 - Clase 9: Funciones de inferencia [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-11.pdf)
-- Clase 10: Modelos de regresion no lineal [[slides 1]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-12.pdf)
+- Clase 10: Modelos de regresion no lineal [[slides]](https://github.com/faosorios/Curso-GLM/blob/main/diapositivas/MAT466_slides-12.pdf)
 
 ## Conjuntos de datos
 - Datos de Finney: [[finney.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.csv), [[finney.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.rda)
