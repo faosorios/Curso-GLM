@@ -31,3 +31,8 @@ Las **diapositivas** para el 1er semestre de 2021 se encuentran disponibles a co
 
 ## Conjuntos de datos
 - Datos de Finney: [[finney.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.csv), [[finney.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/finney.rda)
+- Datos Gauss: [[Gauss.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Gauss.csv), [[Gauss.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Gauss.rda)
+- Datos Hahn: [[Hahn.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Hahn.csv), [[Hahn.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Hahn.rda)
+- Datos Kirby: [[Kirby.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Kirby.csv), [[Kirby.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Kirby.rda)
+- Datos Nelson: [[Nelson.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Nelson.csv), [[Nelson.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Nelson.rda)
+- Datos Thurber: [[Thurber.csv]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Thurber.csv), [[Thurber.rda]](https://github.com/faosorios/Curso-GLM/blob/main/datasets/Thurber.rda)
